@@ -8,13 +8,14 @@ Hi, I'm Saul Gomez, a passionate Full Stack developer from Mexico.
 
 **Languages and Tools:**  
 
-https://img.shields.io/static/v1?label=Code&message=Javascript&color=yellow
-https://img.shields.io/static/v1?label=Code&message=ReactJS&color=blue
-https://img.shields.io/static/v1?label=Code&message=Python&color=green
-https://img.shields.io/static/v1?label=Code&message=Django&color=orange
-https://img.shields.io/static/v1?label=DB&message=PostgreSQL&color=brown
-https://img.shields.io/static/v1?label=CI/CD&message=Jenkins&color=gray
-https://img.shields.io/static/v1?label=CI/CD&message=AWS&color=gray
+![](https://img.shields.io/static/v1?label=Code&message=Javascript&color=yellow)
+![](https://img.shields.io/static/v1?label=Code&message=ReactJS&color=blue)
+![](https://img.shields.io/static/v1?label=Code&message=Python&color=green)
+![](https://img.shields.io/static/v1?label=Code&message=Django&color=orange)
+![](https://img.shields.io/static/v1?label=DB&message=PostgreSQL&color=brown)
+![](https://img.shields.io/static/v1?label=CI/CD&message=Jenkins&color=violet)
+![](https://img.shields.io/static/v1?label=CI/CD&message=AWS&color=green)
+![](https://img.shields.io/static/v1?label=CI/CD&message=GIT&color=red)
 
 
 ![Saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsau-protodev&hide=contribs,prs)
