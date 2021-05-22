@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I'm Saul Gomez (minsau)
 
-<!--
-**minsau-protodev/minsau-protodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Saul Gomez, a passionate Full Stack developer from Mexico.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning testing with jest
+- 👯 I’m looking to collaborate on a Project related to AI
+- 💬 Ask me about anything
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+https://img.shields.io/static/v1?label=Code&message=Javascript&color=yellow
+https://img.shields.io/static/v1?label=Code&message=ReactJS&color=blue
+https://img.shields.io/static/v1?label=Code&message=Python&color=green
+https://img.shields.io/static/v1?label=Code&message=Django&color=orange
+https://img.shields.io/static/v1?label=DB&message=PostgreSQL&color=brown
+https://img.shields.io/static/v1?label=CI/CD&message=Jenkins&color=gray
+https://img.shields.io/static/v1?label=CI/CD&message=AWS&color=gray
+
+
+![Saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsau-protodev&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsau-protodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
