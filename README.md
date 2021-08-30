@@ -18,7 +18,7 @@ Hi, I'm Saul Gomez, a passionate Full Stack developer from Mexico.
 ![](https://img.shields.io/static/v1?label=CI/CD&message=GIT&color=red)
 
 
-![Saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsau-protodev&hide=contribs,prs)
+![Saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsau-protodev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsau-protodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
