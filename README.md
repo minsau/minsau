@@ -2,7 +2,7 @@
 
 Hi, I'm Saul Gomez, a passionate Full Stack developer from Mexico.
 
-- 🌱 I’m currently learning testing with jest
+- 🌱 I’m currently learning Machine learning, Microservices with python and practicing my english
 - 👯 I’m looking to collaborate on a Project related to AI
 - 💬 Ask me about anything
 
