@@ -7,8 +7,8 @@ Hi, I'm Saul Gomez, a passionate Full Stack developer from Mexico.
 - 👯 I’m looking to collaborate on a Project related to Data Sciencie
 - 💬 Ask me about anything
 
-**Languages and Tools:**  
-![](https://img.shields.io/static/v1?label=Code&message=Python&color=green)
+**Languages and Tools:**  \
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/static/v1?label=Code&message=Javascript&color=yellow)
 
 **Frameworks**
