@@ -3,7 +3,7 @@
 Hi, I'm Saul Gomez, a passionate Full Stack developer from Mexico.
 
 - 🌱 Improving my english skills
-- Currently learning FastAPI, GCP and Kubernetes
+- Currently learning FastAPI For Data Science, Docker Swarm and Kubernetes
 - 👯 I’m looking to collaborate on a Project related to Data Sciencie
 - 💬 Ask me about anything
 
@@ -32,8 +32,4 @@ Hi, I'm Saul Gomez, a passionate Full Stack developer from Mexico.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-![Saul's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsau-protodev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsau-protodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
