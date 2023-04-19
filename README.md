@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Saul Gomez (minsau)
 
-Hi, I'm Saul Gomez, a passionate Full Stack developer from Mexico.
+Hi, I'm Saul Gomez, a passionate Full Stack Developer and Data Engineer from Mexico. I have experience in various programming languages, tools, and frameworks, with a strong focus on Python and JavaScript.
 
-- 🌱 Improving my english skills
-- Currently learning FastAPI For Data Science, Docker Swarm and Kubernetes
-- 👯 I’m looking to collaborate on a Project related to Data Sciencie
+- 🌱 Currently working on improving my English skills
+- 📚 Learning FastAPI for Data Science and Kubernetes
+- 👯 I’m looking to collaborate on projects related to Data Science and Data Engineering
 - 💬 Ask me about anything
 
-**Languages and Tools:**  \
+**Languages and Tools:**\
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -32,4 +32,16 @@ Hi, I'm Saul Gomez, a passionate Full Stack developer from Mexico.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+**Testing and Monitoring**\
+![Pytest](https://img.shields.io/badge/pytest-%230A0A0A.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%2306325E.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Sentry](https://img.shields.io/badge/sentry-%2300B5E2.svg?style=for-the-badge&logo=sentry&logoColor=white)
+![New Relic](https://img.shields.io/badge/newrelic-%2300A3B3.svg?style=for-the-badge&logo=new-relic&logoColor=white)
+
+### 🌟 Focused on Data Engineering
+Lately, I've been focusing on Data Engineering, working with data pipelines, ETL processes, and data storage. I'm always eager to learn and apply new technologies in the field.
+
+### 📈 GitHub Activity Summary
+[![Saul Gomez's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=minsau&theme=react-dark&hide_border=true)](https://github.com/minsau)
 
